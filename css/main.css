@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    background-image:url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMDAlJyBoZWlnaHQ9JzEwMCUnPg0KICAgIDxyZWN0IHdpZHRoPScxMDAwJScgaGVpZ2h0PScxMDAwJScgZmlsbD0nI2Y4Y2EwMCcgdHJhbnNmb3JtPSdyb3RhdGUoMTApJy8+DQoJPHJlY3Qgd2lkdGg9JzEwMDAlJyBoZWlnaHQ9JzEwMDAlJyBmaWxsPScjNzA3ZjBlJyB4PSctMTAlJyB0cmFuc2Zvcm09J3JvdGF0ZSgtNDApJy8+DQoJPHJlY3Qgd2lkdGg9JzEwMDAlJyBoZWlnaHQ9JzEwMDAlJyBmaWxsPScjNzA3ZjBlJyB5PSItNDAlIiB4PSIyMDAlIiB0cmFuc2Zvcm09J3JvdGF0ZSg1MCknLz4NCjwvc3ZnPg==');
 }
 
 .container {

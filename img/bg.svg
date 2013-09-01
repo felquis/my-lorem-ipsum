@@ -1,4 +1,6 @@
+<!-- Generate base64 svg -> http://svgeneration.com/generate/Beam -->
 <svg xmlns='http://www.w3.org/2000/svg' width='100%' height='100%'>
-    <rect width='1000%' height='1000%' fill='#f8ca00' transform='rotate(0)'/>
-	<rect width='1000%' height='1000%' fill='#707f0e' transform='rotate(-40)'/>
+    <rect width='1000%' height='1000%' fill='#f8ca00' transform='rotate(10)'/>
+    <rect width='1000%' height='1000%' fill='#707f0e' x='-10%' transform='rotate(-40)'/>
+    <rect width='1000%' height='1000%' fill='#707f0e' y="-40%" x="200%" transform='rotate(50)'/>
 </svg>
